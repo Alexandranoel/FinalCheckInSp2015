@@ -1,0 +1,70 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+@import url(http://fonts.googleapis.com/css?family=Cinzel);
+
+header{
+  background-color:bisque;
+}
+}
+#Ingredients{
+  font-family: 'Open Sans', sans-serif;
+  width:500px;
+  float:left;
+  font-size:15px;
+  margin-bottom:1rem;
+
+}
+#Instructions{
+  font-family: 'Open Sans', sans-serif;
+  width:500px;
+  float: left;
+  font-size:15px;
+  margin-bottom:1rem;
+}
+ul{
+  list-style-type:none;
+}
+li{
+  border-bottom:1px dashed black;
+  font-family: 'Open Sans', sans-serif;
+
+}
+#Important{
+  clear:both;
+  font-family: 'Open Sans', sans-serif;
+  background-color:bisque;
+}
+#Together{
+  border:1px solid black;
+  overflow:auto;
+  background-color:bisque;
+}
+#Picture{
+  clear:both;
+
+}
+#title{
+  font-size:2em;
+  font-family: 'Cinzel', serif;
+  color:maroon;
+  background-color:bisque;
+}
+#favourite{
+  float:right;
+  width:500px;
+  font-size:1em;
+  font-family: 'Open Sans', sans-serif;
+  background-color:bisque;
+}
+#subhead{
+  font-size:1em;
+  font-family: 'Open Sans', sans-serif;
+  background-color:bisque;
+}
+h1{
+  font-family: 'Cinzel', serif;
+  color:maroon;
+}
+h2{
+  font-family: 'Cinzel', serif;
+  color:maroon;
+}
